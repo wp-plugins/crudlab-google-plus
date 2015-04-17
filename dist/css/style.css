@@ -1,0 +1,115 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Apr 9, 2015, 11:01:30 AM
+    Author     : Salman Mukhtar
+*/
+
+.plugins-wrap{
+    width: 100%;
+    margin:30px 0;
+}
+.col-left{
+    width: 60%;
+    padding: 0 2%;
+    background: #fafafa;
+    border: 1px solid #ccc;
+    float:left;
+}
+.col-right{
+    width: 26%;
+    float: left;
+    padding:0 2%;
+    margin-left:2%;
+    background: #fff;
+}
+.col-left .row{
+    padding: 10px 0;
+    margin-bottom: 10px;
+    border-bottom: 1px solid #ccc;
+}
+.inline-block{
+    display: inline-block;
+}
+.clearfix{
+    clear: both;
+    display: block;
+    content: "";
+}
+.pull-left{
+    float: left;
+}
+.pull-right{
+    float: right;
+}
+.col-left .block{
+    margin-bottom: 10px;
+}
+.col-left .where{
+    margin-right: 15px;
+    width: 140px;
+}
+.col-left .shortcode{
+    color: #fff;
+    padding: 0 10px 3px;
+}
+.col-left label{
+    margin-right: 10px;
+}
+.col-left .form-control{
+    height: auto;
+}
+.col-left button{
+    cursor: pointer;
+}
+.bootstrap-switch-handle-off::before{
+    width: 22px;
+    height: 22px;
+}
+.options-wrap .radio{
+    padding-left: 25px;
+}
+.shortcode input {
+  border: none;
+  background: #ccc;
+  padding: 10px;
+}
+.sidebar-wrap h2 a{
+    color: #0074a2;
+}
+.sidebar-wrap h2{
+    font-size: 20px;
+}
+.sidebar-wrap .btn-lg{
+    display: block;
+}
+.clgptooltip{
+    display: inline;
+    position: relative;
+}
+.clgptooltip:hover:after{
+    background: #333;
+    background: rgba(0,0,0,.8);
+    border-radius: 5px;
+    bottom: 26px;
+    color: #fff;
+    content: attr(data-original-title);
+    left: 20%;
+    padding: 5px 15px;
+    position: absolute;
+    z-index: 98;
+    width: 220px;
+}
+.clgptooltip:hover:before{
+    border: solid;
+    border-color: #333 transparent;
+    border-width: 6px 6px 0 6px;
+    bottom: 20px;
+    content: "";
+    left: 50%;
+    position: absolute;
+    z-index: 99;
+}
