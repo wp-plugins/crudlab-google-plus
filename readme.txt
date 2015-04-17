@@ -37,32 +37,25 @@ CRUDLab Google Plus button let visitors recommend your content on Google Search 
 
 == Frequently Asked Questions ==
 
-= How can I exclude specific pages or post? 
-
+= How can I exclude specific pages or post? =
 Select "All pages/posts except followings" then select "Exclude Page/Post" drop down menu or simply type in page post name. 
 
-= What does green and red circle mean?
-
+= What does green and red circle mean? =
 Green means tweet button is enabled and red means button is disabled. 
 
-= I made the changes but they don't appear?
-
+= I made the changes but they don't appear? =
 Please make sure you save settings after making changes. And please make sure that Tweet button switch is turned on. 
 
-= I'd like to add Google Plus Button to my page or post content.
-
+= I'd like to add Google Plus Button to my page or post content. =
 Simply copy short [clgplus] and paste it. Make sure WP Like box is ON. 
 
-= I'd like to add Google Plus Button to my website footer. 
-
+= I'd like to add Google Plus Button to my website footer. =
 Please copy code snippet <?php clgplusButton() ?>  and place it in your theme footer.php file.
 
-=  What happens if I +1 a private URL? 
-
+=  What happens if I +1 a private URL? =
 The button won't work. +1's only work for public URLs. 
 
-= I'm facing some issues and I have few questions, what do I do?
-
+= I'm facing some issues and I have few questions, what do I do? =
 Please shoot us an email to crudlab[at]gmail.com and we'll get back to you within 12 hours. 
 
 
