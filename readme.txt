@@ -3,8 +3,8 @@ Contributors: amirk27
 Donate link: http://crudlab.com
 Tags:  g+, google, google plus, google +1 button, google like, google like button, google plus, google plus author, google plus badge, google plus integration, google plus one, google plus search, google plus wordpress, Google +, Google plus, Google plus button, google, google plus, Google Profile, google+ 
 
-Requires at least: 3.0
-Tested up to: 4.1
+Requires at least: 4.1
+Tested up to: 3.0
 Stable tag: 1.0.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
